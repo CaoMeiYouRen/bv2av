@@ -21,7 +21,7 @@
 
 点击链接即可安装
 
-[安装](https://github.com/CaoMeiYouRen/bv2av/blob/master/bv2av.user.js)
+[安装](https://github.com/CaoMeiYouRen/bv2av/raw/master/bv2av.user.js)
 
 ## 算法来源
 
