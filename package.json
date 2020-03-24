@@ -1,0 +1,18 @@
+{
+  "name": "bv2av",
+  "version": "1.0.0",
+  "description": "转换整个页面链接中的bv号到av号",
+  "main": "bv2av.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CaoMeiYouRen",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.33"
+  }
+}
