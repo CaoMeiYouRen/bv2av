@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bv2av
 // @namespace    https://www.cmyr.ltd/
-// @version      1.0.0
+// @version      1.1.0
 // @description  还原B站的av号
 // @author       草梅友仁
 // @match        *://*.bilibili.com/*
