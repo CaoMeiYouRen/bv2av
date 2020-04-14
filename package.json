@@ -4,7 +4,8 @@
   "description": "转换整个页面链接中的bv号到av号",
   "main": "bv2av.user.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev ./src/index"
   },
   "keywords": [],
   "author": "CaoMeiYouRen",
@@ -13,6 +14,8 @@
     "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "@types/jquery": "^3.3.33"
+    "@types/jquery": "^3.3.33",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.8.3"
   }
 }
